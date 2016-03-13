@@ -2,13 +2,13 @@
 
 ## Glosář
 
-- **anaerobic** a **aerobic** - Dýchání je obecně biochemický proces přeměny sacharidů na pohotový zdroj energie pro buňky (ATP). Anaerobní dýchaní znamená dýchaní na tzv. kyslíkový dluh, kdy výsledným produktem štěpení je kyselina mléčná a tento způsob dýchání lze provozovat po relativně krátkou dobu. Na druhé straně, aerobní činnosti lze provozovat delší dobu a produktem štěpení je kyselina pyrohroznová.
+- **anaerobic** a **aerobic** - [Dýchání](https://cs.wikipedia.org/wiki/Bun%C4%9B%C4%8Dn%C3%A9_d%C3%BDch%C3%A1n%C3%AD) je obecně biochemický proces přeměny sacharidů na pohotový zdroj energie pro buňky (ATP). Anaerobní dýchaní znamená dýchaní na tzv. kyslíkový dluh, kdy výsledným produktem štěpení je kyselina mléčná a tento způsob dýchání lze provozovat po relativně krátkou dobu. Na druhé straně, aerobní činnosti lze provozovat delší dobu a produktem štěpení je kyselina pyrohroznová.
 - **bulking** - Přibírání váhy s důrazem na nárůst svalové hmoty.
 - **cutting** - Shazování tuku a váhy se zachováním svalové hmoty.
 - **diet** - Jídlo a pití, které je pravidelně konzumováno.
 - **empty calories** - Kalorie s malým nebo žádným množstvím výživných látek, příkladem je cukr.
 - **fitness** - Stav, kdy je člověk silný, pohyblivý a vytrvalý bez přítomnosti chronických nemocí.
-- **hyperpalatable** - Produkty potravinářského průmyslu, které vyvolávají nenasytnou spotřebu, která je vyvolávána multisenzorickou stimulací mozku. Tyto potraviny obsahují vysoké množství soly, cukru, tuku či pšeničné mouky. Potraviny se stávají neodolatelnými a snaží se vyvolat v konzumentovi jistou formu závislosti.
+- **hyperpalatable** - Produkty potravinářského průmyslu, které vyvolávají nenasytnou spotřebu, která je vyvolávána multisenzorickou stimulací mozku. Tyto potraviny obsahují vysoké množství soly, cukru, tuku či pšeničné mouky. Potraviny se stávají neodolatelnými a snaží se vyvolat v konzumentovi jistou formu závislosti. Rozvinuto v následujícím [odkazu](http://www.nytimes.com/2009/06/23/health/23well.html).
 - **IIFYM (If It Fits Your Macros)** - Zlaté pravidlo stravy, kdy je možné sníst cokoliv, pokud to splňuje makrobiotické složení a vejde se nám to do kalorického příjmu. Za předpokladu, že jsou zdroje nízké kvality, nemusí pravidlo nutně znamenat zaručené zdraví.
 - **inflammation** - Pokud je část lidského těla zrudlá, oteklá nebo bolestivá, hovoříme o zánětu. Záněty spojené s konzumovanou potravou jsou spojené s moderními nemocemi.
 - **macronutrients** - Tuky, sacharidy a bílkoviny jsou látky potřebné pro tělo ve velkém množství tak, aby mohlo fungovat. Mezi tyto látky patří i alkohol.
