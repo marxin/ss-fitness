@@ -5,10 +5,10 @@
 ## Glosář
 
 - **anaerobic** a **aerobic** - [Dýchání](https://cs.wikipedia.org/wiki/Bun%C4%9B%C4%8Dn%C3%A9_d%C3%BDch%C3%A1n%C3%AD) je obecně biochemický proces přeměny sacharidů na pohotový zdroj energie pro buňky (ATP). Anaerobní dýchaní znamená dýchaní na tzv. kyslíkový dluh, kdy výsledným produktem štěpení je kyselina mléčná a tento způsob dýchání lze provozovat po relativně krátkou dobu. Na druhé straně, aerobní činnosti lze provozovat delší dobu a produktem štěpení je kyselina pyrohroznová.
-- **bulking** - Přibírání váhy s důrazem na nárůst svalové hmoty.
-- **cutting** - Shazování tuku a váhy se zachováním svalové hmoty.
-- **diet** - Jídlo a pití, které je pravidelně konzumováno.
-- **empty calories** - Kalorie s malým nebo žádným množstvím výživných látek, příkladem je cukr.
+- **empty calories** - Kalorie s malým nebo žádným množstvím výživných látek, příkladem je cukr. Typickým příkladem jsou například sušenky, ve kterých se nachází velké množství cukru, ale na rozdíl od ovoce nedodává tělu žádné vitamíny, stopové prvky, apod. Obdobně na tom je alkohol, který je navíc pro tělo jedem, na jehož odbourání musí vynaložit úsilí.
+
+![Alcohol Calories](https://github.com/marxin/ss-fitness/blob/master/images/alcohol-calories.png)
+
 - **fitness** - Stav, kdy je člověk silný, pohyblivý a vytrvalý bez přítomnosti chronických nemocí.
 - **hyperpalatable** - Produkty potravinářského průmyslu, které vyvolávají nenasytnou spotřebu, která je vyvolávána multisenzorickou stimulací mozku. Tyto potraviny obsahují vysoké množství soly, cukru, tuku či pšeničné mouky. Potraviny se stávají neodolatelnými a snaží se vyvolat v konzumentovi jistou formu závislosti. Rozvinuto v následujícím [odkazu](http://www.nytimes.com/2009/06/23/health/23well.html).
 - **IIFYM (If It Fits Your Macros)** - Zlaté pravidlo stravy, kdy je možné sníst cokoliv, pokud to splňuje makrobiotické složení a vejde se nám to do kalorického příjmu. Za předpokladu, že jsou zdroje nízké kvality, nemusí pravidlo nutně znamenat zaručené zdraví.
