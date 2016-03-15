@@ -9,19 +9,18 @@
 
 ![Alcohol Calories](https://github.com/marxin/ss-fitness/blob/master/images/alcohol-calories.png)
 
-- **fitness** - Stav, kdy je člověk silný, pohyblivý a vytrvalý bez přítomnosti chronických nemocí.
 - **hyperpalatable** - Produkty potravinářského průmyslu, které vyvolávají nenasytnou spotřebu, která je vyvolávána multisenzorickou stimulací mozku. Tyto potraviny obsahují vysoké množství soly, cukru, tuku či pšeničné mouky. Potraviny se stávají neodolatelnými a snaží se vyvolat v konzumentovi jistou formu závislosti. Rozvinuto v následujícím [odkazu](http://www.nytimes.com/2009/06/23/health/23well.html).
 
 ![Hamburger](https://github.com/marxin/ss-fitness/blob/master/images/hamburger.jpg)
 
 - **IIFYM (If It Fits Your Macros)** - Zlaté pravidlo stravy, kdy je možné sníst cokoliv, pokud to splňuje makrobiotické složení a vejde se nám to do kalorického příjmu. Za předpokladu, že jsou zdroje nízké kvality, nemusí pravidlo nutně znamenat zaručené zdraví.
+
+![IIFYM](https://github.com/marxin/ss-fitness/blob/master/images/iifym.png)
+
 - **inflammation** - Pokud je část lidského těla zrudlá, oteklá nebo bolestivá, hovoříme o zánětu. Záněty spojené s konzumovanou potravou jsou spojené s moderními nemocemi.
 - **macronutrients** - Tuky, sacharidy a bílkoviny jsou látky potřebné pro tělo ve velkém množství tak, aby mohlo fungovat. Mezi tyto látky patří i alkohol.
-- **metabolic syndrome** - Souhrn lékařských podmínek a nemocí, mezi které patří obezita, vysoký tlak, vysoké množství cukru v krvi, zvýšená hladina triglyceridů či nízký DHL (hodný) cholesterol.
-- **moderation** - Vyhývání se extrémům a přemíry.
+- **metabolic syndrome** - Souhrn lékařských podmínek a [nemocí](https://cs.wikipedia.org/wiki/Metabolick%C3%BD_syndrom), mezi které patří obezita, vysoký tlak, vysoké množství cukru v krvi, zvýšená hladina triglyceridů či nízký DHL (hodný) cholesterol.
 - **nutrients** - Látky nezbytné pro růst a zdržování životních funkcí.
-- **palatable** - Jídlo, které je radost ochutnat.
 - **processed food** - Komerčně produkované jídlo, které se lehce jí. Příkladem jsou nudle, delikatesy, cereálie, brambůrky, polotovary či jídlo z fast foodu.
-- **satiety** - Pocit nasycení či uspokojení chyti na určité jídlo.
 - **sedentary** - Člověk, který většinu svého dne stráví v sedě namísto aktivního pohybu. Zmíněný způsob života je spojený s předčasným úmrtím.
 - **thermogenesis** - Mechanismus v lidském těle, kdy se energie spotřebovává na zahřátí namísto ukládání do podoby tuku.
