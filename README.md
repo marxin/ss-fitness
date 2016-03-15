@@ -1,5 +1,7 @@
 # Životospráva (SS fitness)
 
+![Simple Science Fitness](https://github.com/marxin/ss-fitness/blob/master/images/simple-science-fitness.png)
+
 ## Glosář
 
 - **anaerobic** a **aerobic** - [Dýchání](https://cs.wikipedia.org/wiki/Bun%C4%9B%C4%8Dn%C3%A9_d%C3%BDch%C3%A1n%C3%AD) je obecně biochemický proces přeměny sacharidů na pohotový zdroj energie pro buňky (ATP). Anaerobní dýchaní znamená dýchaní na tzv. kyslíkový dluh, kdy výsledným produktem štěpení je kyselina mléčná a tento způsob dýchání lze provozovat po relativně krátkou dobu. Na druhé straně, aerobní činnosti lze provozovat delší dobu a produktem štěpení je kyselina pyrohroznová.
