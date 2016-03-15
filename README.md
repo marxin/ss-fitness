@@ -13,7 +13,7 @@
 
 ![Hamburger](https://github.com/marxin/ss-fitness/blob/master/images/hamburger.jpg)
 
-- **IIFYM (If It Fits Your Macros)** - Zlaté pravidlo stravy, kdy je možné sníst cokoliv, pokud to splňuje makrobiotické složení a vejde se nám to do kalorického příjmu. Za předpokladu, že jsou zdroje nízké kvality, nemusí pravidlo nutně znamenat zaručené zdraví.
+- **IIFYM (If It Fits Your Macros)** - Zlaté pravidlo stravy, kdy je možné sníst cokoliv, pokud to splňuje makrobiotické složení a vejde se nám to do kalorického příjmu. Za předpokladu, že jsou zdroje nízké kvality, nemusí pravidlo nutně znamenat zaručené zdraví. Jedná se o to, že nestačí jenom sčítat kalorie, ale je třeba dbát na pestrý jídelníček, ať už z pohledu makroživin, tak z pohledu vitamínů, minerálnů a dalších stopových prvků. V pestrosti a rozmanitosti je krása, tady to jistě platí.
 
 ![IIFYM](https://github.com/marxin/ss-fitness/blob/master/images/iifym.png)
 
