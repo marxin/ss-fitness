@@ -1,4 +1,4 @@
-# Životospráva (SS fitness)
+# Životospráva ([SS fitness](http://ss.fitness))
 
 ![Simple Science Fitness](https://github.com/marxin/ss-fitness/blob/master/images/simple-science-fitness.png)
 
