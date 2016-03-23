@@ -30,3 +30,8 @@
 ### Typy těla
 
 ![Body Types](https://github.com/marxin/ss-fitness/blob/master/images/anatomy-average.png)
+
+- **podvýživa** - Podprůměrné množství svaloviny a tuku, kde mírné navýšení kalorií a cvičení pomůže zvýšit úroveň na zdravější.
+- **průměr** - Pravidelné cvičení a zlepšení kvality jídla jsou vhodné. Volbou je neprve nabírání objemu a následně snížení tuku v těle. A nebo snížení tuku neprve a následně pak přibírání svaloviny.
+- **nadváha** - Vyznačuje se mírným zvýšením svaloviny a velkého množství tuku. Snížení příjmu kalorií a zvýšení tělesné aktivity zlepší postavu.
+- **svalnatec** - Vysoké množství svaloviny při nízkém množství tuku. Redukce tuku v těle je doporučena od 15% (25% u žen), naopak při nižší hodnotě než 10% (20% u žen) je nabírání objemu žádoucí. Platí ovšem jednoduché pravidlo, že pokud se člověk cítí dobře po fyzické i mentální stránce, stačí udržovat příjem potravy a intenzity cvičení.
