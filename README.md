@@ -24,3 +24,9 @@
 - **processed food** - Komerčně produkované jídlo, které se lehce jí. Příkladem jsou nudle, delikatesy, cereálie, brambůrky, polotovary či jídlo z fast foodu.
 - **sedentary** - Člověk, který většinu svého dne stráví v sedě namísto aktivního pohybu. Zmíněný způsob života je spojený s předčasným úmrtím.
 - **thermogenesis** - Mechanismus v lidském těle, kdy se energie spotřebovává na zahřátí namísto ukládání do podoby tuku.
+
+## Tělo
+
+### Typy těla
+
+![Body Types](https://github.com/marxin/ss-fitness/blob/master/images/anatomy-average.png)
