@@ -54,7 +54,7 @@ Pokud člověk mizerně jí a navíc má sedavé zaměstnání, dostaví se prob
 - **zranění a postižení**
 - **závislosti**
 
-> Život trvá dlouhé roky. Čas strávený ve zdraví může být překvapivě krátký.
+> Život trvá dlouhé roky. Čas strávený ve zdraví může být překvapivě krátký. — Anonym
 
 ### Posuzování zdraví
 
@@ -66,3 +66,23 @@ Kromě stavby těla a cvičení jsou důležité také další faktory, které v
 - **LDL cholesterol** - Špatný cholesterol, kdy doporučené rozpětí je 100–129 mg/dL.
 - **HDL cholesterol** - Hodný cholesterol, kdy minimální mez by měla být 60 mg/dL.
 - **trigliceridy** - Hlavní složka tuku, která například zajišťuje přenos cukru v krvi, doporučená hodnota je 150 mg/dL.
+
+
+### Spánek a odpočinek
+
+Naprosto esenciální potřebou člověka je spánek v podobě **7-8** hodin denně, přičemž i konzistence a pravidelnost je důležitá.
+Spánek napomáhá obnově, růstu svalů, pohodě a mentálnímu zdraví. Naopak jeho nedostatek zvyšuje chuť k jídlu a přejídání.
+Při silovém tréninku vyžaduje každá skupina svalů alespoň 48 hodin pro jejich regeneraci, růst a obnovu.
+Zajímavou technikou je tzv. **nap**, krátký spánek, který trvá do 15 minut a dovede prokazatelně zlepšit výkonnost v případě, kdy člověk je ve spánkovém deficitu.
+
+### Stres
+
+Zvýšené množství stresu je spolupachatelem obezity, depresí, nespavosti, úzkostí, biabetu typu 2, srdečních příhod, apod.
+Avšak pozitivní stres, například při intenzivním tréninku je prospěšný pro stimulaci (doprovázený vyplavováním adrenalinu).
+Fyzická aktivita je obecně velmi šikovný způsob jak odbourávat stres, deprese, atd.
+
+### Vzhled těla
+
+V dnešní době je velké téma kult těla, tedy atletické postavy opálených chlapů a sexy těla modelek.
+Činíme tak podvědomě, ačkoliv zdravotní hledisko by mělo být prvořadé, jelikož zlepšuje i mentální pohodu a
+ve svém důsledku přijdou i plody v podobě hezčí postavy.
