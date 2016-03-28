@@ -35,3 +35,34 @@
 - **průměr** - Pravidelné cvičení a zlepšení kvality jídla jsou vhodné. Volbou je neprve nabírání objemu a následně snížení tuku v těle. A nebo snížení tuku neprve a následně pak přibírání svaloviny.
 - **nadváha** - Vyznačuje se mírným zvýšením svaloviny a velkého množství tuku. Snížení příjmu kalorií a zvýšení tělesné aktivity zlepší postavu.
 - **svalnatec** - Vysoké množství svaloviny při nízkém množství tuku. Redukce tuku v těle je doporučena od 15% (25% u žen), naopak při nižší hodnotě než 10% (20% u žen) je nabírání objemu žádoucí. Platí ovšem jednoduché pravidlo, že pokud se člověk cítí dobře po fyzické i mentální stránce, stačí udržovat příjem potravy a intenzity cvičení.
+
+### Životní styl
+
+Pokud člověk mizerně jí a navíc má sedavé zaměstnání, dostaví se problémy jako: zvýšené množství tuku, fyzické a duševní nemoci and zvýší se mortabilita. Podobné důsledky má za následek i podvýživa. Zlatá střední cesta ve stravě i sportu naopak produkují dlouhověkost a všeobecnou spokojenost, kdy důležité je myslet na to, že se nejedná o krátkodobou dietu, ale celoživostní přístup.
+
+### Faktory ovlivňující naše zdraví
+
+- **pitný režim**
+- **jídelníček (energie, živiny)**
+- **cvičení**
+- **hormony (testosteron, estrogen, insulin, atd.)**
+- **stres**
+- **spánek a odpočinek**
+- **mikroflóra**
+- **alergie a inrolerance**
+- **shon**
+- **zranění a postižení**
+- **závislosti**
+
+> Život trvá dlouhé roky. Čas strávený ve zdraví může být překvapivě krátký.
+
+### Posuzování zdraví
+
+Kromě stavby těla a cvičení jsou důležité také další faktory, které vám typicky prozradí váš lékař:
+
+- **tělesný tuk** - Neexistuje přesné rozmezí, nicméně doporučené množství je **7-19%** u mužů a **15-27%** u žen. Spodní mez je očekávána v mládí, s přibývajícím věkem tuk roste.
+- **cvičení** - Vydatný trénink **3x** a více týdně (minimálně 20 minut), mírný trénink pak alespoň **5x** týdně po dobu alespoň 30 minut.
+- **Krevní tlak** - 90-120 systolický (měřený pri kontrakci srdečního svalu) a 60-80 diastolický (měřený mezi údery srdce).
+- **LDL cholesterol** - Špatný cholesterol, kdy doporučené rozpětí je 100–129 mg/dL.
+- **HDL cholesterol** - Hodný cholesterol, kdy minimální mez by měla být 60 mg/dL.
+- **trigliceridy** - Hlavní složka tuku, která například zajišťuje přenos cukru v krvi, doporučená hodnota je 150 mg/dL.
