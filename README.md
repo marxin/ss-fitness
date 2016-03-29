@@ -33,12 +33,13 @@
 
 - **podvýživa** - Podprůměrné množství svaloviny a tuku, kde mírné navýšení kalorií a cvičení pomůže zvýšit úroveň na zdravější.
 - **průměr** - Pravidelné cvičení a zlepšení kvality jídla jsou vhodné. Volbou je neprve nabírání objemu a následně snížení tuku v těle. A nebo snížení tuku neprve a následně pak přibírání svaloviny.
-- **nadváha** - Vyznačuje se mírným zvýšením svaloviny a velkého množství tuku. Snížení příjmu kalorií a zvýšení tělesné aktivity zlepší postavu.
-- **svalnatec** - Vysoké množství svaloviny při nízkém množství tuku. Redukce tuku v těle je doporučena od 15% (25% u žen), naopak při nižší hodnotě než 10% (20% u žen) je nabírání objemu žádoucí. Platí ovšem jednoduché pravidlo, že pokud se člověk cítí dobře po fyzické i mentální stránce, stačí udržovat příjem potravy a intenzity cvičení.
+- **nadváha** - Vyznačuje se mírným zvýšením svaloviny a velkým množství tuku. Snížení příjmu kalorií a zvýšení tělesné aktivity zlepší postavu.
+- **svalnatec** - Vysoké množství svaloviny při nízkém množství tuku. Redukce tuku v těle je doporučena od 15% (25% u žen), naopak při nižší hodnotě než 10% (20% u žen) je nabírání objemu žádoucí. Platí ovšem jednoduché pravidlo, že pokud se člověk cítí dobře po fyzické i mentální stránce, stačí udržovat příjem potravy a intenzitu cvičení.
 
 ### Životní styl
 
-Pokud člověk mizerně jí a navíc má sedavé zaměstnání, dostaví se problémy jako: zvýšené množství tuku, fyzické a duševní nemoci and zvýší se mortabilita. Podobné důsledky má za následek i podvýživa. Zlatá střední cesta ve stravě i sportu naopak produkují dlouhověkost a všeobecnou spokojenost, kdy důležité je myslet na to, že se nejedná o krátkodobou dietu, ale celoživostní přístup.
+Pokud člověk mizerně jí a navíc má sedavé zaměstnání, dostaví se problémy jako: zvýšené množství tuku, fyzické a duševní nemoci a zvýší se mortabilita. Podobné důsledky má za následek i podvýživa.
+Zlatá střední cesta ve stravě i sportu naopak produkuje dlouhověkost a všeobecnou spokojenost, kdy důležité je myslet na to, že se nejedná o krátkodobou dietu, ale celoživostní přístup.
 
 ### Faktory ovlivňující naše zdraví
 
@@ -49,7 +50,7 @@ Pokud člověk mizerně jí a navíc má sedavé zaměstnání, dostaví se prob
 - **stres**
 - **spánek a odpočinek**
 - **mikroflóra**
-- **alergie a inrolerance**
+- **alergie a intolerance**
 - **shon**
 - **zranění a postižení**
 - **závislosti**
@@ -61,10 +62,10 @@ Pokud člověk mizerně jí a navíc má sedavé zaměstnání, dostaví se prob
 Kromě stavby těla a cvičení jsou důležité také další faktory, které vám typicky prozradí váš lékař:
 
 - **tělesný tuk** - Neexistuje přesné rozmezí, nicméně doporučené množství je **7-19%** u mužů a **15-27%** u žen. Spodní mez je očekávána v mládí, s přibývajícím věkem tuk roste.
-- **cvičení** - Vydatný trénink **3x** a více týdně (minimálně 20 minut), mírný trénink pak alespoň **5x** týdně po dobu alespoň 30 minut.
+- **cvičení** - Vydatný trénink alespoň **3x** týdně (minimálně 20 minut), mírný trénink pak alespoň **5x** týdně po dobu alespoň 30 minut.
 - **Krevní tlak** - 90-120 systolický (měřený pri kontrakci srdečního svalu) a 60-80 diastolický (měřený mezi údery srdce).
 - **LDL cholesterol** - Špatný [cholesterol](https://cs.wikipedia.org/wiki/Cholesterol), kdy doporučené rozpětí je 100–129 mg/dL. Jeho zvýšené množství způsobuje vznik sklerotických plátů a tím se snižuje pružnost a propustnost cév.
-- **HDL cholesterol** - Hodný cholesterol, kdy minimální mez by měla být 60 mg/dL. Jeho přínos tvkví v navazování LDL cholesterolu, který je terminován (metabolizován).
+- **HDL cholesterol** - Hodný cholesterol, kdy minimální mez by měla být 60 mg/dL. Jeho přínos tvkví v navazování LDL cholesterolu, který je terminován (metabolizován) v játrech.
 - **[mastné kyseliny](https://en.wikipedia.org/wiki/Triglyceride)** - Hlavní složka tuku, která například zajišťuje přenos cukru v krvi, doporučená hodnota je 150 mg/dL.
 Základní dělení je na **nasycené** (špatné, při pokojové teplotě typicky tuhé, často živočišné tuky) a **nenasycené** (prospěšné, typicky tekuté, hodně jich má třeba olivový olej nebo řepkový).
 
@@ -72,9 +73,10 @@ Základní dělení je na **nasycené** (špatné, při pokojové teplotě typic
 ### [Spánek](https://cs.wikipedia.org/wiki/Sp%C3%A1nek) a odpočinek
 
 Naprosto esenciální potřebou člověka je spánek v podobě **7-8** hodin denně, přičemž i konzistence a pravidelnost je důležitá.
-Spánek napomáhá obnově, růstu svalů, pohodě a mentálnímu zdraví. Naopak jeho nedostatek zvyšuje chuť k jídlu a přejídání.
-Při silovém tréninku vyžaduje každá skupina svalů alespoň 48 hodin pro jejich regeneraci, růst a obnovu.
+Spánek napomáhá obnově, růstu svalů, pohodě a mentálnímu zdraví. Naopak jeho nedostatek zvyšuje chuť k jídlu a přejídání se.
+Při silovém tréninku vyžaduje každá skupina svalů alespoň 48 hodin pro svou regeneraci, růst a obnovu.
 Zajímavou technikou je tzv. **nap**, krátký spánek, který trvá do 15 minut a dovede prokazatelně zlepšit výkonnost v případě, kdy člověk je ve spánkovém deficitu.
+
 Spáněk můžeme rozdělit na 2 fáze:
 - **REM** (rapid eye movement) - Fáze spánku, ve které máme sny, projevuje se strnutím, mozek má zvýšenou aktivitu a je obtížné člověka probudit.
 - **NREM** - Negace, v posledních 2 fázich (jsou celkem 4) pak můžeme mluvit o **hlubokém spánku**.
