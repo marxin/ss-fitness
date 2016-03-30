@@ -49,9 +49,9 @@ Zlatá střední cesta ve stravě i sportu naopak produkuje dlouhověkost a vše
 - **hormony (testosteron, estrogen, insulin, atd.)**
 - **stres**
 - **spánek a odpočinek**
-- **mikroflóra**
+- **střevní ikroflóra**
 - **alergie a intolerance**
-- **shon**
+- **půst**
 - **zranění a postižení**
 - **závislosti**
 
@@ -63,8 +63,8 @@ Kromě stavby těla a cvičení jsou důležité také další faktory, které v
 
 - **tělesný tuk** - Neexistuje přesné rozmezí, nicméně doporučené množství je **7-19%** u mužů a **15-27%** u žen. Spodní mez je očekávána v mládí, s přibývajícím věkem tuk roste.
 - **cvičení** - Vydatný trénink alespoň **3x** týdně (minimálně 20 minut), mírný trénink pak alespoň **5x** týdně po dobu alespoň 30 minut.
-- **Krevní tlak** - 90-120 systolický (měřený pri kontrakci srdečního svalu) a 60-80 diastolický (měřený mezi údery srdce).
-- **LDL cholesterol** - Špatný [cholesterol](https://cs.wikipedia.org/wiki/Cholesterol), kdy doporučené rozpětí je 100–129 mg/dL. Jeho zvýšené množství způsobuje vznik sklerotických plátů a tím se snižuje pružnost a propustnost cév.
+- **Krevní tlak** - 90-120 systolický (měřený pri kontrakci srdečního svalu) a 60-80 diastolický (měřený mezi údery srdce). Bohužel špatným tlakem trpí polovina populace: při **nízkém tlaku** nestíhá krev dopravovat živiny do buňek a neodplavují se odpadní látky; naopak vysoký tlak zhoršuje pružnost cév, které jsou následně náchylné k ucpávání.
+- **LDL cholesterol** - Špatný [cholesterol](https://cs.wikipedia.org/wiki/Cholesterol), kdy doporučené rozpětí je 100–129 mg/dL. Jeho zvýšené množství způsobuje vznik sklerotických plátů a tím se snižuje pružnost a propustnost cév (v konečném důsledku způsobuje mrtvici či infarkt).
 - **HDL cholesterol** - Hodný cholesterol, kdy minimální mez by měla být 60 mg/dL. Jeho přínos tvkví v navazování LDL cholesterolu, který je terminován (metabolizován) v játrech.
 - **[mastné kyseliny](https://en.wikipedia.org/wiki/Triglyceride)** - Hlavní složka tuku, která například zajišťuje přenos cukru v krvi, doporučená hodnota je 150 mg/dL.
 Základní dělení je na **nasycené** (špatné, při pokojové teplotě typicky tuhé, často živočišné tuky) a **nenasycené** (prospěšné, typicky tekuté, hodně jich má třeba olivový olej nebo řepkový).
@@ -91,4 +91,4 @@ Fyzická aktivita je obecně velmi šikovný způsob jak odbourávat stres, depr
 
 V dnešní době je velké téma kult těla, tedy atletické postavy opálených chlapů a sexy těla modelek.
 Činíme tak podvědomě, ačkoliv zdravotní hledisko by mělo být prvořadé, jelikož zlepšuje i mentální pohodu a
-ve svém důsledku přijdou i plody v podobě hezčí postavy.
+ve svém důsledku přijdou i plody v podobě hezčí postavy. Oproti tomu, zaměřování se na ideální postavu nemusí nutně znamenat zdravý životní styl.
