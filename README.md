@@ -92,3 +92,25 @@ Fyzická aktivita je obecně velmi šikovný způsob jak odbourávat stres, depr
 V dnešní době je velké téma kult těla, tedy atletické postavy opálených chlapů a sexy těla modelek.
 Činíme tak podvědomě, ačkoliv zdravotní hledisko by mělo být prvořadé, jelikož zlepšuje i mentální pohodu a
 ve svém důsledku přijdou i plody v podobě hezčí postavy. Oproti tomu, zaměřování se na ideální postavu nemusí nutně znamenat zdravý životní styl.
+
+## Skladba těla
+
+### Genetika
+
+Základní parametry našeho těla jako výška, předpoklady k ukládání tuku, apod. jsou ovlivněny geneticky.
+Tyto atributy nemůžeme změnit (jinak než operativně), avšak můžeme redukovat množství svaloviny a tuku (podobně jako sochař).
+Obezita je způsobena hlavně naším chováním a prostředím, ve kterém žijeme (ikdyž každý má jiné dispozice).
+
+### Tělesná váha
+
+Naše tělo je krom čisté svaloviny a tuku tvořena hromadou dalších věcí jako: voda, krev, orgány, tkáně, kosti, atd.
+Z těchto důvodů nedává moc smysl poměřovat váhu denně, ale spíše týdně (zdravý člověk se nedokáže zbavit více jak 1kg tuku týdne,
+a nabrat více jak 0.5 kg svaloviny).
+
+### Tělesný tuk
+
+Ženy jsou obdařeny přirozeně větším množstvím tuku (asi 10% u průměrného jedince), a to v partiích jako prsa, hýždě a stehna.
+Tělesná vrstva tuku je rovnoměrně rozprostřena po celém těle, nicméně u mužů jsou přebytky tuku patrné na břiše, dolních zádek
+(tvar jablka). Zatímco u žen spíše na břiše, stehnech a prsech (tvar hrušky).
+
+![Body Types](https://github.com/marxin/ss-fitness/blob/master/images/apple-pear-body-type.jpg)
