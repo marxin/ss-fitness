@@ -114,3 +114,41 @@ Tělesná vrstva tuku je rovnoměrně rozprostřena po celém těle, nicméně u
 (tvar jablka). Zatímco u žen spíše na břiše, stehnech a prsech (tvar hrušky).
 
 ![Body Types](https://github.com/marxin/ss-fitness/blob/master/images/apple-pear-body-type.jpg)
+
+## Metabolismus
+
+Rozdíly mezi metabilismem dvou osob je značně omezený, proto termíny jako *pomalý a rychlý metaboilismus* nedávají moc smysl.
+Na druhou stranu schopnost vyrábět čistou svalovinu (pomocí proteinů) se značně liší mezi jedinci. Svalovci logicky mají logicky
+náročnější metabolismus. Metabolismus je zvyšován cvičením (obzvláště silovým) a není přímo ovlivněn počtem jídel během dne.
+
+## Hormony
+
+### Insulin
+
+Alfou a omegou práce s tukem v těle jsou hormony a enzymy. Hormon insulin množství cukru v krvi a ukládání/spalování energie.
+Je produkován po konzumaci jídla, kdy mezi jídly a během spánku jeho hodnota dosahuje nižších hodnot a tělo pálí tuk.
+Naopak, při konzumaci jednoduchých cukrů se jeho úroveň zvyšuje a tělo začíná ukládat tuk. Úroveň hormony lze snížit konzumací
+tuku, mléka, či kyselých potravin.
+
+### Irisin
+
+Hormon je emitován během cvičení, kdy přetváří bílou tukovou tváň (uložena v těle) na hnědou, kterou lze posléze přeměnit
+na energii.
+
+### Testosteron
+
+Přírodní steroid, zodpovědný za růst svalové hmoty v těle, je dominantní mužský hormon. Díky jeho produkci
+je mužské tělo svalnatější a proto mají ženy těžší nabírat svalovinu. Ženským ekvivalentem je estrogen.
+Zvýšení testosteronu lze dosáhnout vzpíráním, či příjmem vitanímu D.
+
+### Mikroflóra
+
+Mikroorganismy zažívacího traktu se spolupodílí na regulaci energie v těle a váze. Pěstování ikroflóry je běh na dlouho trať,
+kdy její narušení může způsobit obezitu či diabetes 2. typu. Skladba mikroflóry se značně liší mězi štíhlými a obézními lidmi.
+
+### Paretův princit (20/80)
+
+Ukazuje se, že za většinu tělěsné skladby může jídelníček, kdy svičení je chápáno spíše jako akcelerátor než jako
+primární spouštěč.
+
+![Nutrition and Exercise](https://github.com/marxin/ss-fitness/blob/master/images/80-20-rule.png)
