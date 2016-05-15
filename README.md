@@ -142,14 +142,24 @@ ke ztrátě vědomí, závratím, apod.
 
 ### Irisin
 
+Hormoc sportu, který přetváří bílou tukovou tkáň na hnědou (přesně řečeno [béžovou](http://www.rozhlas.cz/radio_cesko/exkluzivne/_zprava/hnedy-tuk-v-budoucnu-nabidne-hubnuti-bez-namahy-zatim-nezbyva-nez-se-hybat--1130077)).
+Hnědá tkáň se hojně vyskuje u novorozenců a slouží
+pro účely termoregulace v klíčových oblastech krevního oběhu (srdce, cévy). Do konce první roku života se ho většina ztratí a v těle ho
+zůstává jenom asi 5% z celkového množství tuku. Objev irisinu je záležitostí posledních let a dává naději obézním lidem, že by mohli
+zadarmo (bez cvičení) bojovat s obezitou.
 Hormon je emitován během cvičení, kdy přetváří bílou tukovou tváň (uložena v těle) na hnědou, kterou lze posléze přeměnit
 na energii. Byl objeven teprve v roce 2012 a jeho hladina je hodně nízká, těžko prokazatelná.
 
-### Testosteron
+### [Testosteron](https://en.wikipedia.org/wiki/Testosterone)
 
-Přírodní steroid, zodpovědný za růst svalové hmoty v těle, je dominantní mužský hormon (androgen). Díky jeho produkci
-je mužské tělo svalnatější a proto mají ženy těžší nabírat svalovinu. Krom toho v pubertě zapříčiňuje tvorbu pohlavních znaků
-a podílí se na produkci spermií. Ženským ekvivalentem je estrogen (testosteron mají také, ale v 8x nižším množství).
+Přírodní steroid je dominantní mužský hormon (androgen), který je produkován ve varlatech a částečně v nadledvinách.
+Produkce u mužů je asi 8x vyšší než u žen, kdy ženy mají navíc ještě větší citlivost k hormonu. Jelikož je hormon
+zodpovědný za růst svalové hmoty, logicky mají ženy méně svalové hmony (a obtížněji ji nabírají). Hormon mimo jiné
+hraje roli při výrobě spermií a hustotě kostní tkáně. V pubertě mužů spouští rozvoj pohlavních znaků:
+
+1. **primární** - varlata, prostata
+2. **sekundární** - svaly, vousy, mutace hlasu, apod.
+
 Zvýšení testosteronu lze dosáhnout vzpíráním, či příjmem vitanímu D.
 
 ### Mikroflóra
