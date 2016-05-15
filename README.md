@@ -101,11 +101,22 @@ Základní parametry našeho těla jako výška, předpoklady k ukládání tuku
 Tyto atributy nemůžeme změnit (jinak než operativně), avšak můžeme redukovat množství svaloviny a tuku (podobně jako sochař).
 Obezita je způsobena hlavně naším chováním a prostředím, ve kterém žijeme (ikdyž každý má jiné dispozice).
 
+Rozdíly ve fungování metabolismu jsou velmi omezené, termíny jako *pomalý a rychlý metabolismus* nedávají moc smysl a
+jedná spíše o výmluvu lidí, kteří mají problémy s nadváhou a obezitou. Rozdíly jsou pouze v jednotkách procent a
+takový rozdíl lze vyčíslit na 200 kalorií (polovina pizzy). Tudíž svalovat vinnu za obezitu na genetické predispozice
+je velmi alibistické a člověk by měl především změnit životní styl.
+
 ### Tělesná váha
 
 Naše tělo je krom čisté svaloviny a tuku tvořena hromadou dalších věcí jako: voda, krev, orgány, tkáně, kosti, atd.
 Z těchto důvodů nedává moc smysl poměřovat váhu denně, ale spíše týdně (zdravý člověk se nedokáže zbavit více jak 1kg tuku týdne,
-a nabrat více jak 0.5 kg svaloviny).
+a nabrat více jak 0.5 kg svaloviny). Platí nepřímá úměra mezi množstvím svaloviny a rychlostí dalšího příbytku, začátečníkům
+se daří lépe nabírat.
+
+#### BMI (body mass index)
+
+Obecně celkem používaná metriká dává do souvislosti váhu a výšku jedince. Z toho plyne, že se jedná o hrubou metriku, která
+vůbec nezohledňuje objem svaloviny nebo tuku u jedince. Tím se lehce stane, že svalnatý jedinec spadne do kategorie nadváhy.
 
 ### Tělesný tuk
 
@@ -117,10 +128,16 @@ Tělesná vrstva tuku je rovnoměrně rozprostřena po celém těle, nicméně u
 
 ## Metabolismus
 
-Rozdíly mezi metabilismem dvou osob je značně omezený, proto termíny jako *pomalý a rychlý metaboilismus* nedávají moc smysl.
-Na druhou stranu schopnost vyrábět čistou svalovinu (pomocí proteinů) se značně liší mezi jedinci.
-Studie Hubal 2005 ukazuje, že při stejném cvičebním plánu (a jídelníčku) lze dosáhnout rozptylu 0-250%.
-Svalovci logicky mají logicky náročnější metabolismus. Metabolismus je zvyšován cvičením (obzvláště silovým) a není přímo ovlivněn počtem jídel během dne.
+Obecně řečeno se jedná o **látkovou přeměnu**, která se děje v buňkách a v živých organismech.
+U člověka se skládá ze 3 základních částí:
+
+1. **Bazální metabolismus** - energie vynaložená na základní životní funkce
+2. **Fyzická aktivita** - energie vynaložená na aktivitu a následnou regeneraci svalů; zajímavostí je to, že silový trénink
+působí nejen jako nákladná aktivita, ale také v důsledku vyššího množství svaloviny navyšuje bazální metabolismus
+3. **Spalování spojené s konzumací jídla** - strava s vysokým obshem proteinů se stává pro tělo energeticky nejnáročnější
+na vstřebání; celkový počet jídel za den nemá vliv na metabolismus
+
+![BMR](https://github.com/marxin/ss-fitness/blob/master/images/BMR.jpg)
 
 ## Hormony
 
