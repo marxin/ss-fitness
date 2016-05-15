@@ -182,12 +182,13 @@ Zvýšení testosteronu lze dosáhnout vzpíráním, či příjmem vitanímu D.
 ### Mikroflóra
 
 Mikroorganismy zažívacího traktu se spolupodílí na regulaci energie v těle a váze. Pěstování ikroflóry je běh na dlouho trať,
-kdy její narušení může způsobit obezitu či diabetes 2. typu. Skladba mikroflóry se značně liší mězi štíhlými a obézními lidmi.
+kdy její narušení může způsobit obezitu či diabetes 2. typu. Skladba mikroflóry se značně liší mězi štíhlými a obézními lidmi
+a podpora kvalitní mikroflóry navyšuje iminitu jedince a brání tak i patogenním bakteriím, který způsobují žaludeční potíže.
 
 ### Paretův princit (20/80)
 
 Ukazuje se, že za většinu tělěsné skladby může jídelníček, kdy svičení je chápáno spíše jako akcelerátor než jako
 primární spouštěč. Obecně Paretovo pravidlo (princip) říká, že k dosažení 80% výsledku (přibližně) je potřeba vynaložit
-20% úsilí.
+20% úsilí. Navíc cvičení není jenom fyzicky, ale i psychicky prospěšná činnost.
 
 ![Nutrition and Exercise](https://github.com/marxin/ss-fitness/blob/master/images/80-20-rule.png)
