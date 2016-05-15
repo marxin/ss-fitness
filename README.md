@@ -124,13 +124,21 @@ Svalovci logicky mají logicky náročnější metabolismus. Metabolismus je zvy
 
 ## Hormony
 
-### Inzulín
+### [Inzulín](https://en.wikipedia.org/wiki/Insulin)
 
-Alfou a omegou práce s tukem v těle jsou hormony a enzymy. Hormon insulin množství cukru v krvi a ukládání/spalování energie.
-Při hypoglykemii (nedostatku cukru) je stimulována sekrece hormonu glukagonu – antagonisty inzulínu, který urychluje pálení
-složitějších cukrů. Inzulín je produkován po konzumaci jídla, kdy mezi jídly a během spánku jeho hodnota dosahuje nižších hodnot a tělo pálí tuk.
-Naopak, při konzumaci jednoduchých cukrů se jeho úroveň zvyšuje a tělo začíná ukládat tuk. Úroveň hormony lze snížit konzumací
-tuku, mléka, či kyselých potravin.
+Inzulín, hormon produkovaný slinivkou břišní, reguluje metabolismus cukrů a tuků pomocí podpory absorbce glukózy z krve do kosterního
+svalstva a tukových tkání. Tím se stará o to, aby tuky byly raději uloženy (než použity na energii) a také blokuje játra, aby produkovala
+glukózu (díky tomu je udržována stálá hladina glukózy v krvi). Naopak při sníženém množství inzulínu dochází k tomu, že se uložený glykogen
+(ve svalech a játrech) přetvoří na glukózu, jako zdroj energie.
+
+Porucha tvorby inzulíny se nazývá **diabetes** a to buď jako vrozená nemoc (1. typu), kdy je člověk plně odkázán na externě dodaný inzulín
+(typicky z prasat). Jemnější forma je diabet 2. typu, kdy tělesné buňky mají větší rezistivitu vůči inzulínu a proto nepohlcují
+tolik glukózy z krve, kolik by měly. Tento typ diabetu je považován za civilizační nemoc, která úzce souvisí s obezitou
+a vlivem okolního prostředí (genetické předpoklady jsou různé).
+
+Inzulín je do krve uvolňován jednat v pravidelných dávkách, které jsou nezávislé na množství cukru, a dále pak v přímé reakci na množství
+cukru v krvi. Zajímavostí je, že neurony jsou plně závislé na dodávkách glukózy jako zdroje energie a proto při hypoglykémii dochází
+ke ztrátě vědomí, závratím, apod.
 
 ### Irisin
 
