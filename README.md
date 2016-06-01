@@ -192,3 +192,20 @@ primární spouštěč. Obecně Paretovo pravidlo (princip) říká, že k dosa�
 20% úsilí. Navíc cvičení není jenom fyzicky, ale i psychicky prospěšná činnost.
 
 ![Nutrition and Exercise](https://github.com/marxin/ss-fitness/blob/master/images/80-20-rule.png)
+
+## Příjem a výdej kalorií
+
+### Zákon termodynamiky
+
+Lidské tělo se řídí zákonem zachování energie, tedy pokud množství přijaté energie dominuje nad tou vydanou, tloustneme. Naopak,
+pokud více spalujeme, než přijmeme, tak hubneme. V uvedených dvou studiích ([studie 1](http://www.ncbi.nlm.nih.gov/pubmed/8561057)
+a [studie 2](http://www.nejm.org/doi/full/10.1056/nejmoa0804748#t=article)) se ukazuje, že kruciální pro výsledek diety (dlouhobě
+i krátkodobě) je množství přijaté energie, než skladba diety z pohledu cukrů, tuků a bílkovin. Mnohem důležitější je tedy
+nastavit dietu s ohledem na osobní či kulturní preference, protože jenom tak může být dlouhodobě dodržovaná. Podobně jako
+úbytek váhy se i podobně choval obvod pasu či množství cukru v krvi, vše záviselo vyloženě na množství přijaté energie.
+
+Na druhou stranu, důležitým stimulantem je fyzická aktivita a i vyvážená strava. Zejména pro správnou tvorbu hormonů,
+které řídí to, zda se bude tuk ukládat nebo spalovat. Ovlivňuje to, jak tělo přijatou energie rozdělí.
+
+![Weight Loss](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-weight-loss.png)
+![Weight Gain](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-weight-gain.png)
