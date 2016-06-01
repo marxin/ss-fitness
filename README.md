@@ -202,15 +202,17 @@ pokud více spalujeme, než přijmeme, tak hubneme. V uvedených dvou studiích 
 a [studie 2](http://www.nejm.org/doi/full/10.1056/nejmoa0804748#t=article)) se ukazuje, že kruciální pro výsledek diety (dlouhobě
 i krátkodobě) je množství přijaté energie, než skladba diety z pohledu cukrů, tuků a bílkovin. Mnohem důležitější je tedy
 nastavit dietu s ohledem na osobní či kulturní preference, protože jenom tak může být dlouhodobě dodržovaná. Podobně jako
-úbytek váhy se i podobně choval obvod pasu či množství cukru v krvi, vše záviselo vyloženě na množství přijaté energie.
+úbytek váhy se i choval obvod pasu či množství cukru v krvi, vše záviselo vyloženě na množství přijaté energie.
 
 Na druhou stranu, důležitým stimulantem je fyzická aktivita a i vyvážená strava. Zejména pro správnou tvorbu hormonů,
-které řídí to, zda se bude tuk ukládat nebo spalovat. Ovlivňuje to, jak tělo přijatou energie rozdělí.
+které řídí to, zda se bude tuk v těle ukládat nebo spalovat. Ovlivňuje to, jak tělo přijatou energie rozdělí.
 
 ![Law of Thermodynamics](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics.png)
 
 ### [Bazální metabolismus](https://cs.wikipedia.org/wiki/Baz%C3%A1ln%C3%AD_metabolick%C3%BD_v%C3%BDdej)
 
 Množství energie, která tělo potřebuje v klidovém režimu (na lačno) k funkci životně důležitých orgánů (mozek, srdce, apod.).
-BMR se snižuje s věkem a roste s množstvím svaloviny. Od toho se odvíjí denní energetický výdej, podle kterého můžeme nastavit
-množství energie, pokud chceme hubnout či přibírat. Například pro hubnutí se doporučuje snížit množství energie o **500** kalorií s tím, že nikdy bychom neměli prolomit dolní hranici **1200** kalorií. Stejně se doporučuje s množství přijímané energie hýbat pomalu (řádově kolem 200 kalorií), aby se tělo lépe adaptovalo. Zajímavostí je, že v 1/2 kg tuku je uloženo zhruba množství **3500** kalorií, což odpovídá 1 týdnu odbourávání při doporučeném snížení 500 kalorií.
+BMR se snižuje s věkem a roste s množstvím svaloviny. Od toho se odvíjí denní energetický výdej (a příjem), podle kterého můžeme nastavit
+množství energie, pokud chceme hubnout či přibírat. Například pro hubnutí se doporučuje snížit množství energie o **500** kalorií s tím, že nikdy bychom neměli prolomit dolní hranici **1200** kalorií.
+Stejně se doporučuje s množství přijímané energie hýbat pomalu (řádově kolem 200 kalorií), aby se tělo lépe adaptovalo.
+Zajímavostí je, že v 1/2 kg tuku je uloženo zhruba množství **3500** kalorií, což odpovídá 1 týdnu odbourávání při doporučeném snížení 500 kalorií.
