@@ -207,9 +207,7 @@ nastavit dietu s ohledem na osobní či kulturní preference, protože jenom tak
 Na druhou stranu, důležitým stimulantem je fyzická aktivita a i vyvážená strava. Zejména pro správnou tvorbu hormonů,
 které řídí to, zda se bude tuk ukládat nebo spalovat. Ovlivňuje to, jak tělo přijatou energie rozdělí.
 
-![Weight Loss](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-weight-loss.png)
-![Weight Gain](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-weight-gain.png)
-![Weight Maintenance](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-maintainence.png)
+![Law of Thermodynamics](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics.png)
 
 ### [Bazální metabolismus](https://cs.wikipedia.org/wiki/Baz%C3%A1ln%C3%AD_metabolick%C3%BD_v%C3%BDdej)
 
