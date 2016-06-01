@@ -209,3 +209,10 @@ které řídí to, zda se bude tuk ukládat nebo spalovat. Ovlivňuje to, jak t�
 
 ![Weight Loss](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-weight-loss.png)
 ![Weight Gain](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-weight-gain.png)
+![Weight Maintenance](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics-maintainence.png)
+
+### [Bazální metabolismus](https://cs.wikipedia.org/wiki/Baz%C3%A1ln%C3%AD_metabolick%C3%BD_v%C3%BDdej)
+
+Množství energie, která tělo potřebuje v klidovém režimu (na lačno) k funkci životně důležitých orgánů (mozek, srdce, apod.).
+BMR se snižuje s věkem a roste s množstvím svaloviny. Od toho se odvíjí denní energetický výdej, podle kterého můžeme nastavit
+množství energie, pokud chceme hubnout či přibírat. Například pro hubnutí se doporučuje snížit množství energie o **500** kalorií s tím, že nikdy bychom neměli prolomit dolní hranici **1200** kalorií. Stejně se doporučuje s množství přijímané energie hýbat pomalu (řádově kolem 200 kalorií), aby se tělo lépe adaptovalo. Zajímavostí je, že v 1/2 kg tuku je uloženo zhruba množství **3500** kalorií, což odpovídá 1 týdnu odbourávání při doporučeném snížení 500 kalorií.
