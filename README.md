@@ -234,3 +234,17 @@ nezbytné, na množství energie, které potraviny poskytuje. Na příkladu suš
 že ikdyž obě poskytují cukr (jako zdroj energie), tak ovoce mimo toho dává tělu i vlákninu, vitamíny, atd.
 
 ![Energy Health Graph](https://github.com/marxin/ss-fitness/blob/master/images/energy-health-graph.png)
+
+## Mikroživiny
+
+Mikroživiny zahrnují [**vitamíny**](https://cs.wikipedia.org/wiki/Lidsk%C3%A1_v%C3%BD%C5%BEiva#Vitam.C3.ADny), [**minerály**](https://cs.wikipedia.org/wiki/Lidsk%C3%A1_v%C3%BD%C5%BEiva#Miner.C3.A1ly)
+a [**organické kyseliny**](https://cs.wikipedia.org/wiki/Organick%C3%A9_kyseliny).
+
+Vitamíny jsou nízkomolekulární látky, jež katalyzují biochemické reakce v těle. Podílejí se na metabolismu bílkovin, tuků a cukrů. Existuje 13 základních typů vitamínů.
+Lidský organismus si, až na některé výjimky, nedokáže vitamíny sám vyrobit, a proto je musí získávat prostřednictvím stravy. Základní dělení je na ty rozpustné ve vodě
+a v tucích.
+
+Minerály jsou ve stopovém množství potřebné pro všechny živé organismy, jsou nutné pro funkci enzymů a jejich nedostatek způsobuje nemoci.
+Nejdůležitější jsou železo, fluor, jod, kobalt, měď, hořčík, mangan a zinek.
+
+Organické kyseliny jsou slabé kyseliny rozpustné ve vodě, příkladem jsou kyselina mléčná, octová, mravenčí či citronová. V lidském těle jsou obsaženy třeba v krvi či moči.
