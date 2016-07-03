@@ -216,3 +216,15 @@ BMR se snižuje s věkem a roste s množstvím svaloviny. Od toho se odvíjí de
 množství energie, pokud chceme hubnout či přibírat. Například pro hubnutí se doporučuje snížit množství energie o **500** kalorií s tím, že nikdy bychom neměli prolomit dolní hranici **1200** kalorií.
 Stejně se doporučuje s množství přijímané energie hýbat pomalu (řádově kolem 200 kalorií), aby se tělo lépe adaptovalo.
 Zajímavostí je, že v 1/2 kg tuku je uloženo zhruba množství **3500** kalorií, což odpovídá 1 týdnu odbourávání při doporučeném snížení 500 kalorií.
+
+# Strava
+
+## Pyramida potravin dle SS.fitness
+
+1. **základní**: maso, mořské plody a vejce; zelenina
+2. **podstatné**: ovoce; živočišné tuky a oleje
+3. **doplňkové**: mléčné produkty, luštěniny, oříšky a semínka, celozrnné produkty
+4. **chuť**: sůl, koření, houby; ocet a citrón
+
+K omezení: cukr, kalorické nápoje, potraviny s moukou, polotovary, prefabrikáty a zpracované tuky (ztužené, palmový, apod.).
+Životně důležité složky potraviny jsou poskytovány jak tradiční živočišnou produkcí, tak i rostlinnou.
