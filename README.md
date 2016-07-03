@@ -228,3 +228,9 @@ Zajímavostí je, že v 1/2 kg tuku je uloženo zhruba množství **3500** kalor
 
 K omezení: cukr, kalorické nápoje, potraviny s moukou, polotovary, prefabrikáty a zpracované tuky (ztužené, palmový, apod.).
 Životně důležité složky potraviny jsou poskytovány jak tradiční živočišnou produkcí, tak i rostlinnou.
+
+Základní kritérium pro hodnocení zdravých a nezdravých potravin je hustota mikroživin, které jsou pro tělo
+nezbytné, na množství energie, které potraviny poskytuje. Na příkladu sušenky a ovoce si lze snadno představit,
+že ikdyž obě poskytují cukr (jako zdroj energie), tak ovoce mimo toho dává tělu i vlákninu, vitamíny, atd.
+
+![Energy Health Graph](https://github.com/marxin/ss-fitness/blob/master/images/energy-health-graph.png)
