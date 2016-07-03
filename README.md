@@ -248,3 +248,8 @@ Minerály jsou ve stopovém množství potřebné pro všechny živé organismy,
 Nejdůležitější jsou železo, fluor, jod, kobalt, měď, hořčík, mangan a zinek.
 
 Organické kyseliny jsou slabé kyseliny rozpustné ve vodě, příkladem jsou kyselina mléčná, octová, mravenčí či citronová. V lidském těle jsou obsaženy třeba v krvi či moči.
+
+## Intolerance a alergie
+
+Mezi běžné alergie na jídlo patří: arašídy, vejce, mléko, ryby, sóra, měkkýši, ořechy a mouka.
+Intolerance se obecně projevuje záněty, křečemi či průjmy. Zajímavostí je fakt, že přes 90% obyvatel Asie má intoleranci na mléko.
