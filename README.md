@@ -253,3 +253,11 @@ Organické kyseliny jsou slabé kyseliny rozpustné ve vodě, příkladem jsou k
 
 Mezi běžné alergie na jídlo patří: arašídy, vejce, mléko, ryby, sóra, měkkýši, ořechy a mouka.
 Intolerance se obecně projevuje záněty, křečemi či průjmy. Zajímavostí je fakt, že přes 90% obyvatel Asie má intoleranci na mléko.
+
+## Cholesterol a Sodík
+
+Obecnými strašáky ve stravě jsou považovány nadměrná konzumace soli a také cholesterol v krvi. Pravdou je, že tyto látky nejsou nebezpečné samy o sobě,
+ale až v situaci, kdy v důsledku civilizačních chorob (vysoký cholesterol a vysoký ktervní tlak) tělo trví jejich přítomností.
+
+V případě vajec, která obsahují cholesterol, dokonce můžeme říct, že tělu prospívají, protože přítomnost cholesterolu v potravě nesouvisí s jeho přítomností
+v krvi. To je mnohem více ovlivněno příjmem tuků a obecně životním stylem.
