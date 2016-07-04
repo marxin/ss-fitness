@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "styles-less"
+        "-styles-less"
     ],
     "pluginsConfig": {}
 }
