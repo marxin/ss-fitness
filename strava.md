@@ -284,77 +284,81 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Grep
 - Meloun
 
+#### Nápoje
 
+- Voda
+- Čaj
+- Káva
+- Kokosová voda
 
-- Salmon<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Eggs<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Liver<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Beef<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Mackerel<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Trout<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Sardines<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Anchovies<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+#### Maso, dary moře a vejce
+
+- <em>Losos</em><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- <em>Vejce</em><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- <em>Játra</em><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- <em>Hovězí maso</em><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Makrela<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Pstruh<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Sardinka<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Ančovička<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
 - Bison<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
-- Oysters<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
-- Clams<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
-- Chicken<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
-- Venison<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
-- Pork<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span>
-- Turkey<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
-- Lamb<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
-- Tuna<span class="vitamins badge">V</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
-- Crab<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
-- Lobster<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
-- Shrimp<span class="minerals badge">M</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Ústřice<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Škeble<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Kuře<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
+- Zvěřina<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
+- Vepřové<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span>
+- Krutí<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
+- Jehněčí<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
+- Tuňák<span class="vitamins badge">V</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Krab<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Humr<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Garnát<span class="minerals badge">M</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
 
+#### Oleje a tuky
 
+- <em>Kokosový olej extra virgin</em><span class="fats badge">F</span>
+- <em>Olivový olej extra virgin</em><span class="fats badge">F</span>
+- Avokádový olej<span class="fats badge">F</span>
+- Lůj<span class="fats badge">F</span>
+- Máslo<span class="fats badge">F</span><span class="omega3 badge">Ω</span>
+- Palmový olej<span class="fats badge">F</span>
+- Olej z vlašských ořechů<span class="fats badge">F</span>
+- Lněný olej<span class="fats badge">F</span>
 
-- Virgin Coconut Oil<span class="fats badge">F</span>
-- Extra Virgin Olive Oil<span class="fats badge">F</span>
-- Avocado Oil<span class="fats badge">F</span>
-- Tallow<span class="fats badge">F</span>
-- Ghee<span class="fats badge">F</span>
-- Butter<span class="fats badge">F</span><span class="omega3 badge">Ω</span>
-- Palm Oil<span class="fats badge">F</span>
-- Walnut Oil<span class="fats badge">F</span>
-- Flax Oil<span class="fats badge">F</span>
+#### Koření a houby
 
-
-
-- Water
-- Tea
-- Black Coffee
-- Coconut Water
-
-- Allspice
-- Anise
-- Basil
-- Cloves
-- Cardamom
-- Cayenne Pepper
-- Cilantro
-- Cinnamon
-- Coriander
-- Chili Powder
-- Cumin
+- Nové koření
+- Anýz
+- Bazilka
+- Hřebíček
+- Kardamon
+- Kajenský pepř
+- Koriandr
+- Skořice
+- Koriandr
+- Chili prášek
+- Kmín
 - Curry
-- Fennel
-- Garlic Powder
-- Ginger
-- Mustard Powder
-- Nutmeg
-- Onion Powder
-- Oregano
+- Fenykl
+- Sušený česnek
+- Zázvor
+- Prášek z hořčičného semínka
+- Muškátový oříšek
+- Prášek z cibule
+- Oregáno
 - Paprika
-- Parsley
-- Pepper
-- Red Pepper Flakes
-- Rosemary
-- Sage
-- Thyme
-- Turmeric
+- Petržel
+- Pepř
+- Červená paprika
+- Rozmarýn
+- Šalvěj
+- Tymián
+- Kurkuma
+- Citrón
+- Sůl
+- Ocet
 
-
+## Doplňkové potraviny
 
 - Almonds<span class="fiber badge">f</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
 - Walnuts<span class="fats badge">F</span>
