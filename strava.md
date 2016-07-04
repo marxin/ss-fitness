@@ -127,6 +127,81 @@ a v tucích.
 Minerály jsou ve stopovém množství potřebné pro všechny živé organismy, jsou nutné pro funkci enzymů a jejich nedostatek způsobuje nemoci.
 Nejdůležitější jsou železo, fluor, jod, kobalt, měď, hořčík, mangan a zinek.
 
+### [Přehled minerálů](http://www.celostnimedicina.cz/mineralni-latky-jejich-zdroje-a-vyznam-pro-organismus.htm)
+
+#### Vápník
+* **Popis**: nejhodnotněji zastoupen v těle (zuby, kosti); důležitý při růstu, těhotenství a také se podílí na svalových a nervových funkcích
+* **Výskyt**: lušteniny, tmavozelená zelenina, mák, klíčky, mléčné produkty
+
+#### Hořčík
+* **Popis**: reguluje srdeční rytmus a svalové kontrakce; nepostradatelný pro metabolismus enzymů; hraje důležitou roli při srážení krve; příjem hořčíku je důležitý při rychlém růstu, výkonnostních sportech a při stresu
+* **Výskyt**:  zelená listová zelenina, lušteniny, semínka, ořechy, jablka, ryby
+
+#### Fosfor
+* **Popis**: stavba kostí s zubů; biochemické reakce spojené s tukem; fuknce mozku a nervů
+* **Výskyt**: ryby, lušteniny, ořechy, maso, mléčké výrobky a žloutky
+
+#### Sodík a draslík
+* **Popis**: přenos nervových impulzů; činnost svalů a srdce; nadbytek způsobuje vyšší tlak a namáhání ledvin; draslík je vytlačován sodíkem, což vede k únavě a slabosti
+* **Výskyt**: sodík - sůl; draslík - brambory, lušteniny, celozrnné obiloviny a ořechy
+
+#### Železo
+* **Popis**: buněčné dýchání; stavba a funkčnost hemoglobinu; zvyšuje obranyschopnost organismu a brání proti infekcím
+* **Výskyt**:  vnitřnosti, lušteniny, žloutek, celozrnné obiloviny
+
+#### Síra
+* **Popis**: obsažena v bílkovinách; podílí se na detoxikaci organismu
+* **Výskyt**: vejce, mléčné výrobky, luštěniny, maso a ořechy
+
+#### Zinek
+* **Popis**: štěpení bílkovin v těle; tvorba inzulinu a chrání před rakovinou; důležitý při léčbě alergií a kožních onemocnění
+* **Výskyt**: dýňová semena, ústřice, klíčky, otruby a vejce
+
+#### Selen
+* **Popis**: odstraňuje volné radikály v těle (antioxidant); zásadní vliv na kardiovaskulární systém; chrání před těžkými kovy
+* **Výskyt**:  kukuřice, klíčky, vejce, mořské plody
+
+#### Křemík
+* **Popis**: růst organismu, zpevňuje cévy a kosti; zdravá pleť a vlasy
+* **Výskyt**: pektin, celozrnné obiloviny
+
+#### Chrom
+* **Popis**: metabolismus sacharidů, růst a obranyschopnost; je zabíjen konzumací bílé mouky a cukru
+* **Výskyt**:  lesní plody, pivovarské kvasnice, ořechy, klíčky, celozrnné obiloviny
+
+#### Jód
+* **Popis**: tvorba hormonů štítné žlázy; urychluje metabolismus živin; zlepšuje mentální funkce
+* **Výskyt**: jodidovaná sůl, dary moře, višně a třešně
+
+#### Fluór
+* **Popis**: zdravé zuby a kosti
+* **Výskyt**: fluoridovaná voda, dary moře, černý čaj
+
+#### Měď
+* **Popis**: červené krevní barvivo; buněčné dýchání
+* **Výskyt**: luštěniny, játra, ořechy
+
+#### Mangan a Vanad
+* **Popis**: mineralizace kostí, metabolismus živin
+* **Výskyt**:  ořechy, borůvky, jahody, luštěniny, celozrnné obiloviny
+
+#### Kobalt
+* **Popis**: Součástí vitamínu B<sub>12</sub>; v procesu krvetvorby
+* **Výskyt**: játra, celozrnné výrobky
+
+#### Molybden a Nikl
+* **Popis**: součást enzymů
+* **Výskyt**: fazole, celozrnné výrobky, ořechy, kapusta
+
+#### Germanium
+* **Popis**: posiluje imunitní systém
+* **Výskyt**: česnek, žen-šen
+
+#### Bór
+* **Popis**: stimuluje růst u dětí
+* **Výskyt**: brokolice, švestky, ořechy
+
+
 Organické kyseliny jsou slabé kyseliny rozpustné ve vodě, příkladem jsou kyselina mléčná, octová, mravenčí či citronová. V lidském těle jsou obsaženy třeba v krvi či moči.
 
 ## Intolerance a alergie
