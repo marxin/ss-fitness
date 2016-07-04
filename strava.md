@@ -234,6 +234,8 @@ v krvi. To je mnohem více ovlivněno příjmem tuků a obecně životním style
 
 Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamíny, minerály a další důležité prvky, které tělo vyžaduje. Obecně jsou preferovány potraviny v co nejmenším stupni potravinářského zpracování: např. steak vs. klobása; či ovoce vs. margotka.
 
+#### Zelenina
+
 - <em>Kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
 - <em>Zelená kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
 - <em>Čínské zelí</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
