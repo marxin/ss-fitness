@@ -1,4 +1,4 @@
 # Summary
 
-* Glosář
+* [Glosář](glosar.md)
 
