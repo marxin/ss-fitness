@@ -2,33 +2,33 @@
   display: inline-block;      
   text-align: center;
   border-radius: 50%;
-  font-weight: bold;
+  font-weight: bold; 
+}
 
-  &:lowcalories {
-    background-color: #b0ffbf;
-  }
-  &:vitamins {
-    background-color: #A3E0D4;
-  }
-  &:minerals {
-    background-color: #e0e0e0;
-  }
-  &:proteins {
-    background-color: #ffd7ff;
-  }
-  &:fats {
-    background-color: #ffffb3;
-  }
-  &:omega3 {
-    background-color: #ffe8c6;
-  }
-  &:fiber {
-    background-color: #c6e9ff;
-  }
-  &:starches {
-    background-color: #FFE6A3;
-  }
-  &:t {
-    background-color: #F7F6E8;
-  }
+.lowcalories {
+  background-color: #b0ffbf;
+}
+.vitamins {
+  background-color: #A3E0D4;
+}
+.minerals {
+  background-color: #e0e0e0;
+}
+.proteins {
+  background-color: #ffd7ff;
+}
+.fats {
+  background-color: #ffffb3;
+}
+.omega3 {
+  background-color: #ffe8c6;
+}
+.fiber {
+  background-color: #c6e9ff;
+}
+.starches {
+  background-color: #FFE6A3;
+}
+.t {
+  background-color: #F7F6E8;
 }
