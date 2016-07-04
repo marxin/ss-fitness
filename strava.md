@@ -25,6 +25,25 @@ Vitamíny jsou nízkomolekulární látky, jež katalyzují biochemické reakce 
 Lidský organismus si, až na některé výjimky, nedokáže vitamíny sám vyrobit, a proto je musí získávat prostřednictvím stravy. Základní dělení je na ty rozpustné ve vodě
 a v tucích.
 
+### Přehled vitamínů
+
+| Vitamín | Rozpustnost | Popis | Nedostatek | Nadbytek | Výskyt | Zajímavost |
+| -- | -- | -- | -- | -- | -- |
+| A (retinol, karoten) | v tucích | podporuje tvorbu zrakového pigmentu používaného za nízkého osvětlení; důležitý antioxidant; | šeroslepost; rohovatění kůže; snížení potence; sklon k zánětům | jako jeden z mála způsobuje hypervitaminózu, kdy se ukládá v játrech; způsobuje osteoporózu a otravu | tmavězelená a žlutá zelenina a ovoce | velmi vysoké dávky jsou přítomny v arktických zvířatech a nejedna polární expedice se fatálně otrávila z těchto ulovených zvířat (v důsledku došlých zásob)
+| B<sub>1</sub> | ve vodě | 2:3 | 3:3 | 4:3 | 4:2 |
+| B<sub>2</sub> | ve vodě | 2:4 | 3:4 | 4:4 | 4:2 |
+| B<sub>3</sub> | ve vodě | 2:5 | 3:5 | 4:5 | 4:2 |
+| B<sub>5</sub> | ve vodě | 2:6 | 3:6 | 4:6 | 4:2 |
+| B<sub>6</sub> | ve vodě | 2:7 | 3:7 | 4:7 | 4:2 |
+| B<sub>9</sub> | ve vodě | 2:8 | 3:8 | 4:8 | 4:2 |
+| B<sub>12</sub> | ve vodě | 2:9 | 3:9 | 4:9 | 4:2 |
+| C | ve vodě | 2:10 | 3:10 | 4:10 | 4:2 |
+| D | v tucích | 2:11 | 3:11 | 4:11 | 4:2 |
+| E | v tucích | 2:12 | 3:12 | 4:12 | 4:2 |
+| H | ve vodě | 2:13 | 3:13 | 4:13 | 4:2 |
+| K | v tucích | 2:13 | 3:13 | 4:13 | 4:2 |
+
+
 Minerály jsou ve stopovém množství potřebné pro všechny živé organismy, jsou nutné pro funkci enzymů a jejich nedostatek způsobuje nemoci.
 Nejdůležitější jsou železo, fluor, jod, kobalt, měď, hořčík, mangan a zinek.
 
