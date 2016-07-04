@@ -2,5 +2,5 @@
 
 * [Glosář](glosar.md)
 * [Tělo](telo.md)
-* Strava
+* [Strava](strava.md)
 
