@@ -217,32 +217,48 @@ ale až v situaci, kdy v důsledku civilizačních chorob (vysoký cholesterol a
 V případě vajec, která obsahují cholesterol, dokonce můžeme říct, že tělu prospívají, protože přítomnost cholesterolu v potravě nesouvisí s jeho přítomností
 v krvi. To je mnohem více ovlivněno příjmem tuků a obecně životním stylem.
 
-- Kale<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
-- Collard Greens<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
-- Bok Choy<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
-- Arugula<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
-- Spinach<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
-- Chard<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
-- Broccoli<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
-- Brussels Sprout<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
-- Garlic<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="t badge">T</span>
-- Mushroom<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
-- Asparagus<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
-- Squash<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
-- Cabbage<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Lettuce<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Tomato<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Cauliflower<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Radish<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Bell Pepper<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Onion<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Leek<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Carrot<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Cucumber<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Sweet Potato<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
-- Yam<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
-- Beet<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Potato<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="starches badge">S</span>
+## Základní potraviny
+
+### Legenda
+
+- <span class="lowcalories badge">c</span> nízkokalorické
+- <span class="vitamins badge">V</span> vitamíny
+- <span class="minerals badge">M</span> minerály
+- <span class="protein badge">P</span> protein
+- <span class="fats badge">F</span> dobré tuky
+- <span class="omega3 badge">Ω</span> omega-3 kyseliny
+- <span class="fiber badge">f</span> vláknina
+- <span class="starches badge">S</span> škroby
+- <span class="t badge">T</span> zlepšuje testosteron
+- *italikou* jsou označeny nejvýživnější potraviny
+
+Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamíny, minerály a další důležité prvky, které tělo vyžaduje. Obecně jsou preferovány potraviny v co nejmenším stupni potravinářského zpracování: např. steak vs. klobása; či ovoce vs. margotka.
+
+- <em>Kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- <em>Zelená kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- <em>Čínské zelí</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
+- <em>Rukola</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
+- <em>Špenát</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- <em>Řepa</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- <em>Brokolice</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- <em>růžičková kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- Česnek<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="t badge">T</span>
+- Houby<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Chřest<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Dýně<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Zelí<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Salát<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Rajčata<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Květák<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Ředkev<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Kapie<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Cibule<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Pórek<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Mrkve<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Okurka<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Batáty<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
+- Řepa<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Brambory<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="starches badge">S</span>
 
 
 
