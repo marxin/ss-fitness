@@ -3,5 +3,10 @@
         "-styles-less",
         "addcssjs"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "addcssjs": {
+            "js": "",
+            "css": "https://raw.githubusercontent.com/marxin/ss-fitness/master/styles/custom.css"
+        }
+    }
 }
