@@ -7,15 +7,15 @@
 - **anaerobic** a **aerobic** - [Dýchání](https://cs.wikipedia.org/wiki/Bun%C4%9B%C4%8Dn%C3%A9_d%C3%BDch%C3%A1n%C3%AD) je obecně biochemický proces přeměny sacharidů na pohotový zdroj energie pro buňky (ATP). Anaerobní dýchaní znamená dýchaní na tzv. kyslíkový dluh, kdy výsledným produktem štěpení je kyselina mléčná a tento způsob dýchání lze provozovat po relativně krátkou dobu. Na druhé straně, aerobní činnosti lze provozovat delší dobu a produktem štěpení je kyselina pyrohroznová.
 - **empty calories** - Kalorie s malým nebo žádným množstvím výživných látek, příkladem je cukr. Typickým příkladem jsou například sušenky, ve kterých se nachází velké množství cukru, ale na rozdíl od ovoce nedodává tělu žádné vitamíny, stopové prvky, apod. Obdobně na tom je alkohol, který je navíc pro tělo jedem, na jehož odbourání musí vynaložit úsilí.
 
-![Alcohol Calories](https://github.com/marxin/ss-fitness/blob/master/images/alcohol-calories.png)
+![Alcohol Calories](images/alcohol-calories.png)
 
 - **hyperpalatable** - Produkty potravinářského průmyslu, které vyvolávají nenasytnou spotřebu, která je vyvolávána multisenzorickou stimulací mozku. Tyto potraviny obsahují vysoké množství soly, cukru, tuku či pšeničné mouky. Potraviny se stávají neodolatelnými a snaží se vyvolat v konzumentovi jistou formu závislosti. Rozvinuto v následujícím [odkazu](http://www.nytimes.com/2009/06/23/health/23well.html).
 
-![Hamburger](https://github.com/marxin/ss-fitness/blob/master/images/hamburger.jpg)
+![Hamburger](images/hamburger.jpg)
 
 - **IIFYM (If It Fits Your Macros)** - Zlaté pravidlo stravy, kdy je možné sníst cokoliv, pokud to splňuje makrobiotické složení a vejde se nám to do kalorického příjmu. Za předpokladu, že jsou zdroje nízké kvality, nemusí pravidlo nutně znamenat zaručené zdraví. Jedná se o to, že nestačí jenom sčítat kalorie, ale je třeba dbát na pestrý jídelníček, ať už z pohledu makroživin, tak z pohledu vitamínů, minerálnů a dalších stopových prvků. V pestrosti a rozmanitosti je krása, tady to jistě platí.
 
-![IIFYM](https://github.com/marxin/ss-fitness/blob/master/images/iifym.png)
+![IIFYM](images/iifym.png)
 
 - **inflammation** - Pokud je část lidského těla zrudlá, oteklá nebo bolestivá, hovoříme o zánětu. Záněty spojené s konzumovanou potravou jsou spojené s moderními nemocemi.
 - **macronutrients** - Tuky, sacharidy a bílkoviny jsou látky potřebné pro tělo ve velkém množství tak, aby mohlo fungovat. Mezi tyto látky patří i alkohol.
@@ -29,7 +29,7 @@
 
 ### Typy těla
 
-![Body Types](https://github.com/marxin/ss-fitness/blob/master/images/anatomy-average.png)
+![Body Types](images/anatomy-average.png)
 
 - **podvýživa** - Podprůměrné množství svaloviny a tuku, kde mírné navýšení kalorií a cvičení pomůže zvýšit úroveň na zdravější.
 - **průměr** - Pravidelné cvičení a zlepšení kvality jídla jsou vhodné. Volbou je neprve nabírání objemu a následně snížení tuku v těle. A nebo snížení tuku neprve a následně pak přibírání svaloviny.
@@ -124,7 +124,7 @@ vůbec nezohledňuje objem svaloviny nebo tuku u jedince. Tím se lehce stane, �
 Tělesná vrstva tuku je rovnoměrně rozprostřena po celém těle, nicméně u mužů jsou přebytky tuku patrné na břiše, dolních zádek
 (tvar jablka). Zatímco u žen spíše na břiše, stehnech a prsech (tvar hrušky).
 
-![Body Types](https://github.com/marxin/ss-fitness/blob/master/images/apple-pear-body-type.jpg)
+![Body Types](images/apple-pear-body-type.jpg)
 
 ## Metabolismus
 
@@ -137,7 +137,7 @@ působí nejen jako nákladná aktivita, ale také v důsledku vyššího množs
 3. **Spalování spojené s konzumací jídla** - strava s vysokým obshem proteinů se stává pro tělo energeticky nejnáročnější
 na vstřebání; celkový počet jídel za den nemá vliv na metabolismus
 
-![BMR](https://github.com/marxin/ss-fitness/blob/master/images/BMR.jpg)
+![BMR](images/BMR.jpg)
 
 ## Hormony
 
@@ -191,7 +191,7 @@ Ukazuje se, že za většinu tělěsné skladby může jídelníček, kdy sviče
 primární spouštěč. Obecně Paretovo pravidlo (princip) říká, že k dosažení 80% výsledku (přibližně) je potřeba vynaložit
 20% úsilí. Navíc cvičení není jenom fyzicky, ale i psychicky prospěšná činnost.
 
-![Nutrition and Exercise](https://github.com/marxin/ss-fitness/blob/master/images/80-20-rule.png)
+![Nutrition and Exercise](images/80-20-rule.png)
 
 ## Příjem a výdej kalorií
 
@@ -207,7 +207,7 @@ nastavit dietu s ohledem na osobní či kulturní preference, protože jenom tak
 Na druhou stranu, důležitým stimulantem je fyzická aktivita a i vyvážená strava. Zejména pro správnou tvorbu hormonů,
 které řídí to, zda se bude tuk v těle ukládat nebo spalovat. Ovlivňuje to, jak tělo přijatou energie rozdělí.
 
-![Law of Thermodynamics](https://github.com/marxin/ss-fitness/blob/master/images/law-of-thermodynamics.png)
+![Law of Thermodynamics](images/law-of-thermodynamics.png)
 
 ### [Bazální metabolismus](https://cs.wikipedia.org/wiki/Baz%C3%A1ln%C3%AD_metabolick%C3%BD_v%C3%BDdej)
 
@@ -233,7 +233,7 @@ Základní kritérium pro hodnocení zdravých a nezdravých potravin je hustota
 nezbytné, na množství energie, které potraviny poskytuje. Na příkladu sušenky a ovoce si lze snadno představit,
 že ikdyž obě poskytují cukr (jako zdroj energie), tak ovoce mimo toho dává tělu i vlákninu, vitamíny, atd.
 
-![Energy Health Graph](https://github.com/marxin/ss-fitness/blob/master/images/energy-health-graph.png)
+![Energy Health Graph](images/energy-health-graph.png)
 
 ## Mikroživiny
 
