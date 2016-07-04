@@ -216,3 +216,237 @@ ale až v situaci, kdy v důsledku civilizačních chorob (vysoký cholesterol a
 
 V případě vajec, která obsahují cholesterol, dokonce můžeme říct, že tělu prospívají, protože přítomnost cholesterolu v potravě nesouvisí s jeho přítomností
 v krvi. To je mnohem více ovlivněno příjmem tuků a obecně životním stylem.
+
+- Kale<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- Collard Greens<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Bok Choy<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
+- Arugula<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span>
+- Spinach<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- Chard<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- Broccoli<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- Brussels Sprout<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- Garlic<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="t badge">T</span>
+- Mushroom<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Asparagus<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Squash<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
+- Cabbage<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Lettuce<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Tomato<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Cauliflower<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Radish<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Bell Pepper<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Onion<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Leek<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Carrot<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Cucumber<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
+- Sweet Potato<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
+- Yam<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
+- Beet<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Potato<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="starches badge">S</span>
+
+
+
+
+
+
+- Salmon<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Eggs<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Liver<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Beef<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Mackerel<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Trout<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Sardines<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Anchovies<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Bison<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
+- Oysters<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Clams<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Chicken<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
+- Venison<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
+- Pork<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span>
+- Turkey<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span>
+- Lamb<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
+- Tuna<span class="vitamins badge">V</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+- Crab<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Lobster<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
+- Shrimp<span class="minerals badge">M</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
+
+
+
+- Virgin Coconut Oil<span class="fats badge">F</span>
+- Extra Virgin Olive Oil<span class="fats badge">F</span>
+- Avocado Oil<span class="fats badge">F</span>
+- Tallow<span class="fats badge">F</span>
+- Ghee<span class="fats badge">F</span>
+- Butter<span class="fats badge">F</span><span class="omega3 badge">Ω</span>
+- Palm Oil<span class="fats badge">F</span>
+- Walnut Oil<span class="fats badge">F</span>
+- Flax Oil<span class="fats badge">F</span>
+
+- Avocado<span class="fats badge">F</span><span class="fiber badge">f</span>
+- All berries<span class="lowcalories badge">c</span><span class="fiber badge">f</span>
+- Coconut<span class="fats badge">F</span>
+- Cherry
+- Apple<span class="fiber badge">f</span>
+- Banana<span class="fiber badge">f</span>
+- Orange<span class="fiber badge">f</span>
+- Pomegranate
+- Lemon/Lime
+- Guava
+- Kiwi
+- Pear<span class="fiber badge">f</span>
+- Mango
+- Peach
+- Cantaloupe
+- Pineapple
+- Plum
+- Grapes
+- Watermelon
+
+- Water
+- Tea
+- Black Coffee
+- Coconut Water
+
+- Allspice
+- Anise
+- Basil
+- Cloves
+- Cardamom
+- Cayenne Pepper
+- Cilantro
+- Cinnamon
+- Coriander
+- Chili Powder
+- Cumin
+- Curry
+- Fennel
+- Garlic Powder
+- Ginger
+- Mustard Powder
+- Nutmeg
+- Onion Powder
+- Oregano
+- Paprika
+- Parsley
+- Pepper
+- Red Pepper Flakes
+- Rosemary
+- Sage
+- Thyme
+- Turmeric
+
+
+
+- Almonds<span class="fiber badge">f</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
+- Walnuts<span class="fats badge">F</span>
+- Macadamia Nuts<span class="fats badge">F</span>
+- Flaxseeds<span class="fiber badge">f</span><span class="fats badge">F</span>
+- Hazelnuts<span class="fats badge">F</span>
+- Pecans<span class="fats badge">F</span>
+- Brazil Nuts<span class="fats badge">F</span><span class="t badge">T</span>
+- Pumpkin Seeds<span class="t badge">T</span>
+- Squash Seeds<span class="t badge">T</span>
+- Cocoa (Dark Chocolate)<span class="minerals badge">M</span><span class="t badge">T</span>
+- Sunflower Seeds
+- Sesame Seeds<span class="fiber badge">f</span>
+- Cashews<span class="fiber badge">f</span>
+- Pistachios<span class="fiber badge">f</span>
+
+- Greek Yogurt<span class="protein badge">P</span><span class="fats badge">F</span>
+- Cheese<span class="protein badge">P</span><span class="fats badge">F</span>
+- Whole Milk<span class="protein badge">P</span><span class="fats badge">F</span>
+- Cream Cheese<span class="fats badge">F</span>
+- Cream<span class="fats badge">F</span>
+
+- Green Beans<span class="fiber badge">f</span>
+- Lentils<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Peas<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Chickpeas<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Kidney Beans<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Alfalfa<span class="fiber badge">f</span>
+- Peanuts<span class="fiber badge">f</span>
+- Natural Peanut Butter<span class="fiber badge">f</span>
+- Soybean (Tofu)<span class="protein badge">P</span><span class="fiber badge">f</span>
+
+
+- Oats<span class="starches badge">S</span>
+- Quinoa<span class="starches badge">S</span>
+- Barley<span class="starches badge">S</span>
+- Rye Bread<span class="starches badge">S</span>
+- Buckwheat<span class="starches badge">S</span>
+- Rice (Long-Grain)<span class="starches badge">S</span>
+- Whole Wheat Bread<span class="starches badge">S</span>
+- Corn on the Cob<span class="starches badge">S</span>
+
+- Agave Nectar
+- Cane Juice
+- Dextrose
+- Glucose-Fructose
+- High-Fructose Corn Syrup (HFCS)
+- Honey
+- Jam
+- Malt/Maltose
+- Maltodextrin
+- Sauces
+- Sucrose
+- Sugar
+- Syrups
+
+
+- Aspartame
+- Neotame
+- Rebiana (Truvia)
+- Saccharin
+- Sucralose (Splenda)
+- Stevia
+
+- Coolers
+- Energy Drinks
+- Fruit Juice
+- Low-Fat Drinks
+- Milkshakes
+- Pop/Soda
+- Sweetened Alcohol
+- Sweetened Coffee
+
+- Canola (Rapeseed) Oil
+- Cottonseed Oil
+- Grapeseed Oil
+- Margarine
+- Partially Hydrogenated Oil
+- Peanut Oil
+- Soybean Oil
+- Sunflower Oil
+- Safflower Oil
+- Trans Fats
+- Vegetable Oil
+
+- Bagels
+- Biscuits
+- Cake
+- Candy
+- Cereal
+- Chocolate Bars
+- Cookies
+- Corn-Based Products
+- Corn Chips
+- Crackers
+- Doughnuts
+- Ice Cream
+- French Fries
+- Frozen Yogurt
+- "Gluten-Free" Products
+- Hamburgers
+- Hot Dogs
+- "Low-Fat" Products
+- Muffins
+- Pancakes
+- Pasta
+- Pastries
+- Popcorn
+- Potato Chips
+- Pies
+- Pizza
+- Pretzels
+- Waffles
+- White Bread
