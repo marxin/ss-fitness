@@ -1,10 +1,10 @@
 {
     "plugins": [
         "-styles-less",
-        "addcssjs"
+        "-addcssjs"
     ],
     "pluginsConfig": {
-        "addcssjs": {
+        "-addcssjs": {
             "js": "",
             "css": "https://raw.githubusercontent.com/marxin/ss-fitness/master/styles/custom.css"
         }
