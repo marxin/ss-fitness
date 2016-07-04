@@ -243,14 +243,14 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - <em>Špenát</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
 - <em>Řepa</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
 - <em>Brokolice</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
-- <em>růžičková kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
+- <em>Růžičková kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span><span class="t badge">T</span>
 - Česnek<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="t badge">T</span>
 - Houby<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
 - Chřest<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
 - Dýně<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
 - Zelí<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
 - Salát<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Rajčata<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
+- Rajče<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
 - Květák<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
 - Ředkev<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
 - Kapie<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
@@ -258,12 +258,31 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Pórek<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
 - Mrkve<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
 - Okurka<span class="lowcalories badge">c</span><span class="vitamins badge">V</span>
-- Batáty<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
+- Batát<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="starches badge">S</span>
 - Řepa<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
-- Brambory<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="starches badge">S</span>
+- Brambor<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="starches badge">S</span>
 
+#### Ovoce
 
-
+- <em>Avokádo</em><span class="fats badge">F</span><span class="fiber badge">f</span>
+- <em>Všechny lesní plody</em><span class="lowcalories badge">c</span><span class="fiber badge">f</span>
+- <em>Kokos</em><span class="fats badge">F</span>
+- Třešeň
+- Jablko<span class="fiber badge">f</span>
+- Banán<span class="fiber badge">f</span>
+- Pomeranč<span class="fiber badge">f</span>
+- Granátové jablko
+- Citrón/Limeta
+- Kvajáva
+- Kiwi
+- Hruška<span class="fiber badge">f</span>
+- Mango
+- Broskev
+- Ananasový meloun
+- Ananas
+- Švestka
+- Grep
+- Meloun
 
 
 
@@ -300,25 +319,7 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Walnut Oil<span class="fats badge">F</span>
 - Flax Oil<span class="fats badge">F</span>
 
-- Avocado<span class="fats badge">F</span><span class="fiber badge">f</span>
-- All berries<span class="lowcalories badge">c</span><span class="fiber badge">f</span>
-- Coconut<span class="fats badge">F</span>
-- Cherry
-- Apple<span class="fiber badge">f</span>
-- Banana<span class="fiber badge">f</span>
-- Orange<span class="fiber badge">f</span>
-- Pomegranate
-- Lemon/Lime
-- Guava
-- Kiwi
-- Pear<span class="fiber badge">f</span>
-- Mango
-- Peach
-- Cantaloupe
-- Pineapple
-- Plum
-- Grapes
-- Watermelon
+
 
 - Water
 - Tea
