@@ -1,4 +1,4 @@
-## Glosář
+# Glosář
 
 - **anaerobic** a **aerobic** - [Dýchání](https://cs.wikipedia.org/wiki/Bun%C4%9B%C4%8Dn%C3%A9_d%C3%BDch%C3%A1n%C3%AD) je obecně biochemický proces přeměny sacharidů na pohotový zdroj energie pro buňky (ATP). Anaerobní dýchaní znamená dýchaní na tzv. kyslíkový dluh, kdy výsledným produktem štěpení je kyselina mléčná a tento způsob dýchání lze provozovat po relativně krátkou dobu. Na druhé straně, aerobní činnosti lze provozovat delší dobu a produktem štěpení je kyselina pyrohroznová.
 - **empty calories** - Kalorie s malým nebo žádným množstvím výživných látek, příkladem je cukr. Typickým příkladem jsou například sušenky, ve kterých se nachází velké množství cukru, ale na rozdíl od ovoce nedodává tělu žádné vitamíny, stopové prvky, apod. Obdobně na tom je alkohol, který je navíc pro tělo jedem, na jehož odbourání musí vynaložit úsilí.
