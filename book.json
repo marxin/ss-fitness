@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "-styles-less"
+        "-styles-less",
+        "addcssjs"
     ],
     "pluginsConfig": {}
 }
