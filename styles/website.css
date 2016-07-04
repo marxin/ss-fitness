@@ -4,31 +4,31 @@
   border-radius: 50%;
   font-weight: bold;
 
-  &.lowcalories {
+  &:lowcalories {
     background-color: #b0ffbf;
   }
-  &.vitamins {
+  &:vitamins {
     background-color: #A3E0D4;
   }
-  &.minerals {
+  &:minerals {
     background-color: #e0e0e0;
   }
-  &.proteins {
+  &:proteins {
     background-color: #ffd7ff;
   }
-  &.fats {
+  &:fats {
     background-color: #ffffb3;
   }
-  &.omega3 {
+  &:omega3 {
     background-color: #ffe8c6;
   }
-  &.fiber {
+  &:fiber {
     background-color: #c6e9ff;
   }
-  &.starches {
+  &:starches {
     background-color: #FFE6A3;
   }
-  &.t {
+  &:t {
     background-color: #F7F6E8;
   }
 }
