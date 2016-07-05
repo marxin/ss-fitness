@@ -234,7 +234,7 @@ v krvi. To je mnohem více ovlivněno příjmem tuků a obecně životním style
 
 Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamíny, minerály a další důležité prvky, které tělo vyžaduje. Obecně jsou preferovány potraviny v co nejmenším stupni potravinářského zpracování: např. steak vs. klobása; či ovoce vs. margotka.
 
-#### Zelenina
+### Zelenina
 
 - <em>Kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span><span class="t badge">T</span>
 - <em>Zelená kapusta</em><span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="fiber badge">f</span>
@@ -262,7 +262,7 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Řepa<span class="lowcalories badge">c</span><span class="vitamins badge">V</span><span class="fiber badge">f</span>
 - Brambor<span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="starches badge">S</span>
 
-#### Ovoce
+### Ovoce
 
 - <em>Avokádo</em><span class="fats badge">F</span><span class="fiber badge">f</span>
 - <em>Všechny lesní plody</em><span class="lowcalories badge">c</span><span class="fiber badge">f</span>
@@ -284,14 +284,14 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Grep
 - Meloun
 
-#### Nápoje
+### Nápoje
 
 - Voda
 - Čaj
 - Káva
 - Kokosová voda
 
-#### Maso, dary moře a vejce
+### Maso, dary moře a vejce
 
 - <em>Losos</em><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
 - <em>Vejce</em><span class="vitamins badge">V</span><span class="minerals badge">M</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
@@ -314,7 +314,7 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Humr<span class="minerals badge">M</span><span class="protein badge">P</span><span class="t badge">T</span>
 - Garnát<span class="minerals badge">M</span><span class="protein badge">P</span><span class="omega3 badge">Ω</span><span class="t badge">T</span>
 
-#### Oleje a tuky
+### Oleje a tuky
 
 - <em>Kokosový olej extra virgin</em><span class="fats badge">F</span>
 - <em>Olivový olej extra virgin</em><span class="fats badge">F</span>
@@ -325,7 +325,7 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Olej z vlašských ořechů<span class="fats badge">F</span>
 - Lněný olej<span class="fats badge">F</span>
 
-#### Koření a houby
+### Koření a houby
 
 - Nové koření
 - Anýz
@@ -360,46 +360,60 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 
 ## Doplňkové potraviny
 
-- Almonds<span class="fiber badge">f</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
-- Walnuts<span class="fats badge">F</span>
-- Macadamia Nuts<span class="fats badge">F</span>
-- Flaxseeds<span class="fiber badge">f</span><span class="fats badge">F</span>
-- Hazelnuts<span class="fats badge">F</span>
-- Pecans<span class="fats badge">F</span>
-- Brazil Nuts<span class="fats badge">F</span><span class="t badge">T</span>
-- Pumpkin Seeds<span class="t badge">T</span>
-- Squash Seeds<span class="t badge">T</span>
-- Cocoa (Dark Chocolate)<span class="minerals badge">M</span><span class="t badge">T</span>
-- Sunflower Seeds
-- Sesame Seeds<span class="fiber badge">f</span>
-- Cashews<span class="fiber badge">f</span>
-- Pistachios<span class="fiber badge">f</span>
+### Ořechy a semínka
 
-- Greek Yogurt<span class="protein badge">P</span><span class="fats badge">F</span>
-- Cheese<span class="protein badge">P</span><span class="fats badge">F</span>
-- Whole Milk<span class="protein badge">P</span><span class="fats badge">F</span>
-- Cream Cheese<span class="fats badge">F</span>
-- Cream<span class="fats badge">F</span>
+- <em>Mandle</em><span class="fiber badge">f</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
+- Vlašské ořechy<span class="fats badge">F</span>
+- Makadamoéý ořechy<span class="fats badge">F</span>
+- Lněná semínka<span class="fiber badge">f</span><span class="fats badge">F</span>
+- Lískové oříšky<span class="fats badge">F</span>
+- Pekanové ořechy<span class="fats badge">F</span>
+- Brazilské ořechy<span class="fats badge">F</span><span class="t badge">T</span>
+- Dýňová semínka<span class="t badge">T</span>
+- Kakao (tmavá čokoláda)<span class="minerals badge">M</span><span class="t badge">T</span>
+- Slunečnicová semínka
+- Sezamová semínka<span class="fiber badge">f</span>
+- Kešu<span class="fiber badge">f</span>
+- Pistácie<span class="fiber badge">f</span>
 
-- Green Beans<span class="fiber badge">f</span>
-- Lentils<span class="fiber badge">f</span><span class="starches badge">S</span>
-- Peas<span class="fiber badge">f</span><span class="starches badge">S</span>
-- Chickpeas<span class="fiber badge">f</span><span class="starches badge">S</span>
-- Kidney Beans<span class="fiber badge">f</span><span class="starches badge">S</span>
-- Alfalfa<span class="fiber badge">f</span>
-- Peanuts<span class="fiber badge">f</span>
-- Natural Peanut Butter<span class="fiber badge">f</span>
-- Soybean (Tofu)<span class="protein badge">P</span><span class="fiber badge">f</span>
+### Mléčné produkty
 
+- Řecký jogurt<span class="protein badge">P</span><span class="fats badge">F</span>
+- Sýr<span class="protein badge">P</span><span class="fats badge">F</span>
+- Plnotučné mléko<span class="protein badge">P</span><span class="fats badge">F</span>
+- Žervé<span class="fats badge">F</span>
+- Smetana<span class="fats badge">F</span>
 
-- Oats<span class="starches badge">S</span>
-- Quinoa<span class="starches badge">S</span>
-- Barley<span class="starches badge">S</span>
-- Rye Bread<span class="starches badge">S</span>
-- Buckwheat<span class="starches badge">S</span>
-- Rice (Long-Grain)<span class="starches badge">S</span>
-- Whole Wheat Bread<span class="starches badge">S</span>
-- Corn on the Cob<span class="starches badge">S</span>
+### Nápoje
+
+- Kokosové mléko
+- Červené víno
+- Pivo
+- Tvrdý alkohol
+
+### Lušteniny
+
+- Zelené fazole<span class="fiber badge">f</span>
+- Čočka<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Hrášek<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Cizrna<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Fazole<span class="fiber badge">f</span><span class="starches badge">S</span>
+- Vojtěška<span class="fiber badge">f</span>
+- Arašídy<span class="fiber badge">f</span>
+- Burákové máslo<span class="fiber badge">f</span>
+- Sója (Tofu)<span class="protein badge">P</span><span class="fiber badge">f</span>
+
+### Obiloviny
+
+- Oves<span class="starches badge">S</span>
+- Ječmen<span class="starches badge">S</span>
+- Žitný chleba<span class="starches badge">S</span>
+- Pohanka<span class="starches badge">S</span>
+- Rýže (Dlouhozrnná)<span class="starches badge">S</span>
+- Celozrnný chleba<span class="starches badge">S</span>
+- Kukuřičný klas<span class="starches badge">S</span>
+
+## Jídlo k omezení
 
 - Agave Nectar
 - Cane Juice
