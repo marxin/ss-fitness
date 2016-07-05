@@ -415,75 +415,80 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 
 ## Jídlo k omezení
 
-- Agave Nectar
-- Cane Juice
-- Dextrose
-- Glucose-Fructose
-- High-Fructose Corn Syrup (HFCS)
-- Honey
-- Jam
-- Malt/Maltose
+### Sladidla
+
+- Agávový nektar
+- Třtinový džus
+- Dextrosa
+- Glukózo-fruktózový sirup
+- Vysoce fruktózový kukuřičný sirup
+- Med
+- Džem
+- Sladový cukr
 - Maltodextrin
-- Sauces
-- Sucrose
-- Sugar
-- Syrups
+- Ovocné pyré
+- Sacharóza
+- Cukr
+- Sirupy
 
+### Umělá sladidla
 
-- Aspartame
+- Aspartam
 - Neotame
-- Rebiana (Truvia)
-- Saccharin
-- Sucralose (Splenda)
-- Stevia
+- Sacharín
+- Sucralóza
+- Stévie
 
-- Coolers
-- Energy Drinks
-- Fruit Juice
-- Low-Fat Drinks
-- Milkshakes
-- Pop/Soda
-- Sweetened Alcohol
-- Sweetened Coffee
+### Nápoje
 
-- Canola (Rapeseed) Oil
-- Cottonseed Oil
-- Grapeseed Oil
-- Margarine
-- Partially Hydrogenated Oil
-- Peanut Oil
-- Soybean Oil
-- Sunflower Oil
-- Safflower Oil
-- Trans Fats
-- Vegetable Oil
+- Doule (ovocný míchaný drink)
+- Energetické nápoje
+- Ovocné džusy
+- Nízkotučné nápoje
+- Milkshaky
+- Soda
+- Slazené alkoholické nápoje
+- Slazená káva
 
-- Bagels
-- Biscuits
-- Cake
-- Candy
-- Cereal
-- Chocolate Bars
-- Cookies
-- Corn-Based Products
-- Corn Chips
-- Crackers
-- Doughnuts
-- Ice Cream
-- French Fries
-- Frozen Yogurt
-- "Gluten-Free" Products
-- Hamburgers
-- Hot Dogs
-- "Low-Fat" Products
-- Muffins
-- Pancakes
-- Pasta
-- Pastries
+### Oleje a tuky
+
+- Řepkový olej
+- Bavlněný olej
+- Hroznový olej
+- Margarín
+- Částečně hydrogenizované oleje
+- Arašídový olej
+- Sojový olej
+- Slunečnicový olej
+- Trans nasycené tuky
+- Rostlinný olej
+
+# Junk food
+
+- Housky
+- Sušeny
+- Dorty
+- Sladkosti
+- Cereálie
+- Tabulková čokoláda
+- Kukuřičné produkty
+- Kukuřičné chipsy
+- Krekry
+- Koblihy (jenom ty s dírou uprostřed)
+- Zmrzlina
+- Hranolky
+- Zmražený jogurt
+- Produkty "bez cukru"
+- Hamburgery
+- Hot dogy
+- Nízkotučné produky
+- Mufiny
+- Palačinky
+- Těstoviny
 - Popcorn
-- Potato Chips
-- Pies
+- Chipsy
+- Koláče
 - Pizza
-- Pretzels
-- Waffles
-- White Bread
+- Preclíky
+- Wafle
+- Bílý chleba
