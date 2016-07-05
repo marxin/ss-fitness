@@ -360,6 +360,8 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 
 ## Doplňkové potraviny
 
+Rozšiřují jídelníček a mají vyvážený poměr cukrů, tuků a bílkovin.
+
 ### Ořechy a semínka
 
 - <em>Mandle</em><span class="fiber badge">f</span><span class="protein badge">P</span><span class="fats badge">F</span><span class="t badge">T</span>
@@ -415,6 +417,8 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 
 ## Jídlo k omezení
 
+Poslední podkapitola čítá jídla, kterým je lepší se vyhnout. Jsou to často prefabrikované potraviny, mix mouky, cukru a ztužených tuků. Často jsou dobarvovány, obsahují konzervanty, podporovače chutí a další breberky.
+
 ### Sladidla
 
 - Agávový nektar
@@ -431,7 +435,7 @@ Níže zmíněný list obsahuje dostupné potraviny bohaté na živiny, vitamín
 - Cukr
 - Sirupy
 
-### Umělá sladidla
+### [Umělá sladidla](https://www.stream.cz/peklonataliri/767397-umela-sladidla)
 
 - Aspartam
 - Neotame
