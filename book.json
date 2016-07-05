@@ -5,8 +5,8 @@
     ],
     "pluginsConfig": {
         "addcssjs": {
-            "js": "",
-            "css": "styles/custom.css"
+            "js": [],
+            "css": ["styles/custom.css"]
         }
     }
 }
